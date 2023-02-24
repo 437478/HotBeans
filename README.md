@@ -1,0 +1,2 @@
+# HotBeans
+HotBeans Company Website
